@@ -1,8 +1,8 @@
 {
     "weblate": {
-      "hello": "hello",
-      "orangutan": "orangutan",
-      "try": "try",
-      "thanks": "thanks"
+        "hello": "Ahoj světe!\n",
+        "orangutan": "",
+        "try": "",
+        "thanks": ""
     }
-  }
+}
