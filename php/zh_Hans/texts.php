@@ -1,5 +1,5 @@
 <?php
 return [
-    'welcome' => 'Welcome to our application',
-    'apples' => 'There is one apple|There are many apples',
+    'welcome' => '欢迎来到我们的应用程序',
+    'apples' => '有一个苹果',
 ];
