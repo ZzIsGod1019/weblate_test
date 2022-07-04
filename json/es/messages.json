@@ -1,1 +1,46 @@
-{}
+{
+    "go_to_resend_verification_email": {
+        "message": "Accede a $app$ para volver a enviar el correo electrónico de verificación.",
+        "description": "Description",
+        "placeholders": {
+            "app": {
+                "content": "$1",
+                "example": "Joyread"
+            }
+        }
+    },
+    "orangutan": {
+        "message": "El orangután tiene $count$ plátanos",
+        "description": "Description",
+        "placeholders": {
+            "count": {
+                "content": "$1",
+                "example": "5"
+            }
+        }
+    },
+    "wealth_coupon_expire_remind": {
+        "message": "$wealth_coupon_name$ EXPIRAN PRONTO",
+        "description": "Description",
+        "placeholders": {
+            "wealth_coupon_name": {
+                "content": "$1",
+                "example": "account.tapon_wealth_coupon"
+            }
+        }
+    },
+    "send_gifts": {
+        "message": "Hiciste $num$ regalos a $novel_title$",
+        "description": "Description",
+        "placeholders": {
+            "num": {
+                "content": "$1",
+                "example": "3"
+            },
+            "novel_title": {
+                "content": "$2",
+                "example": "Grandpa's Yard"
+            }
+        }
+    }
+}
