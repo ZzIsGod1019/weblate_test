@@ -1,0 +1,42 @@
+{
+    "go_to_resend_verification_email": {
+      "message": "Go to $app$ to resend the verification email.",
+      "description": "Description",
+      "placeholders": {
+        "app": {
+          "content": "$1",
+          "example": "Joyread"
+        }
+      }
+    },
+    "orangutan": {
+      "message": "Orangutan has $count$ bananas",
+      "description": "Description",
+      "placeholders": {
+        "count": {
+          "content": "$1",
+          "example": "5"
+        }
+      }
+    },
+    "wealth_coupon_expire_remind": {
+      "message": "$wealth_coupon_name$ Expiration Notice",
+      "description": "Description",
+      "placeholders": {
+        "wealth_coupon_name": {
+          "content": "$1",
+          "example": "account.tapon_wealth_coupon"
+        }
+      }
+    },
+    "send_gifts": {
+      "message": "Have sent :num gifts to :novel_title",
+      "description": "Description",
+      "placeholders": {
+        "num": {
+          "content": "$1",
+          "example": "3"
+        }
+      }
+    }
+  }
