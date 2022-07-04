@@ -30,13 +30,17 @@
       }
     },
     "send_gifts": {
-      "message": "Have sent :num gifts to :novel_title",
+      "message": "Have sent $num$ gifts to $novel_title$",
       "description": "Description",
       "placeholders": {
         "num": {
           "content": "$1",
           "example": "3"
-        }
+        },
+        "novel_title": {
+            "content": "$2",
+            "example": "Grandpa's Yard"
+          }
       }
     }
   }
